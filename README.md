@@ -1,6 +1,6 @@
 # raspi-kiosk
 
-Quickly set up a Raspberry Pi to operate in Kiosk Mode.
+Quickly set up a Raspberry Pi to boot directly into a fullscreen browser.
 
 ## Instructions:
 
